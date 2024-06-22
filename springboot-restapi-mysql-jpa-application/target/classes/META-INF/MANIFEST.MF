@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-restapi-mysql-jpa-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: javat
+Implementation-Vendor-Id: com.mycom.springboot
+Build-Jdk: 1.8.0_291
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-restapi-mysql-jpa-application
+Created-By: Maven Integration for Eclipse
+
